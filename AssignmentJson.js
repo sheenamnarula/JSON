@@ -102,6 +102,7 @@
         return resultArray;
         };
          var secondrequirement = groupBy(mappingvalues2, 'Area_Name','Males','Females');
+    
          var json2=JSON.stringify(secondrequirement);
          //---------------------------2nd requirement ends------------------------------------------------------------
         //--------------------------3rd requirement starts------------------------------------------
